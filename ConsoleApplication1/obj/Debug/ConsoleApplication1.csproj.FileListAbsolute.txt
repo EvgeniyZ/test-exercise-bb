@@ -1,0 +1,7 @@
+D:\BurningButtons\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\BurningButtons\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\BurningButtons\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\BurningButtons\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.dll
+D:\BurningButtons\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.xml
+D:\BurningButtons\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\BurningButtons\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
